@@ -2,6 +2,6 @@
 *.bin
 *.safetensors
 models/
-benchmarks/results/
+benchmarks/results/*.txt
 __pycache__/
 .env.local
