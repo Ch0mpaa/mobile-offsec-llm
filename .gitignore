@@ -1,0 +1,7 @@
+*.gguf
+*.bin
+*.safetensors
+models/
+benchmarks/results/
+__pycache__/
+.env.local
